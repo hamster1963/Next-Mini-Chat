@@ -30,4 +30,4 @@
 <br>
 
 ![screen-shot-one](./shotOne.jpeg)
-![screen-shot-two](./shotOne.jpeg)
+![screen-shot-two](./shotTwo.jpeg)
