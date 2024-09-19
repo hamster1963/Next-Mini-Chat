@@ -1,7 +1,7 @@
 <h1 align="center">Next-Mini-Chat</h1>
 
 <h3 align="center">Next-Mini-Chat 是一个基于 Next.js 的极致精简 Chat 页面</h3>
-<h4 align="center">Next-Mini-Chat 是一个基于 Next.js 的极致精简 Chat 页面</h4>
+<h4 align="center">使用 Server Action 与中间件身份认证保证安全</h4>
 
 ![Next-Mini-Chat](./chat.jpeg)
 
